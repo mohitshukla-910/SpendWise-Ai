@@ -17,3 +17,23 @@ Blockers / what I'm stuck on:
 
 Plan for tomorrow:
 - Build the audit input form and research pricing structures for major AI tools.
+
+
+## Day 2 — 2026-05-10
+
+Hours worked: 5
+
+What I did:
+- Built the audit input form UI
+- Added dropdowns and numeric fields
+- Created a reusable AuditForm component
+- Improved homepage structure using reusable React components
+
+What I learned:
+- Splitting UI into reusable components makes the project structure much cleaner.
+
+Blockers / what I'm stuck on:
+- Need to decide how detailed the pricing recommendation engine should be.
+
+Plan for tomorrow:
+- Add form state management and start building the audit logic engine.
