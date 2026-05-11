@@ -37,3 +37,20 @@ Blockers / what I'm stuck on:
 
 Plan for tomorrow:
 - Add form state management and start building the audit logic engine.
+
+
+## Day 3 — 2026-05-11
+
+Hours worked: 0
+
+What I did:
+- Could not work on the project today due to personal scheduling conflicts.
+
+What I learned:
+- Consistent planning matters more than trying to rush development in a single sitting.
+
+Blockers / what I'm stuck on:
+- No technical blockers today.
+
+Plan for tomorrow:
+- Start building the audit recommendation engine and connect form inputs to React state.
