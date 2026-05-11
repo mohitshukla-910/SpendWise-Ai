@@ -1,4 +1,4 @@
-## Day 1 — 2026-05-09
+## Day 1 — 2026-05-08
 
 Hours worked: 4
 
@@ -19,7 +19,7 @@ Plan for tomorrow:
 - Build the audit input form and research pricing structures for major AI tools.
 
 
-## Day 2 — 2026-05-10
+## Day 2 — 2026-05-09
 
 Hours worked: 5
 
@@ -39,7 +39,7 @@ Plan for tomorrow:
 - Add form state management and start building the audit logic engine.
 
 
-## Day 3 — 2026-05-11
+## Day 3 — 2026-05-10
 
 Hours worked: 0
 
@@ -54,3 +54,22 @@ Blockers / what I'm stuck on:
 
 Plan for tomorrow:
 - Start building the audit recommendation engine and connect form inputs to React state.
+
+## Day 4 — 2026-05-11
+
+Hours worked: 5
+
+What I did:
+- Added React state management to the audit form
+- Connected form inputs using controlled components
+- Built the first version of the audit recommendation engine
+- Added dynamic savings calculations and conditional result rendering
+
+What I learned:
+- React state management becomes much easier once inputs are converted into controlled components.
+
+Blockers / what I'm stuck on:
+- Recommendation logic is still simplistic and needs more realistic pricing rules.
+
+Plan for tomorrow:
+- Expand pricing logic and improve audit recommendations using structured pricing data.
