@@ -21,7 +21,7 @@ export default function Home() {
       {/* Hero Section */}
       <div className="max-w-3xl mx-auto text-center mt-32">
 
-        <h1 className="text-5xl font-bold leading-tight">
+       <h1 className="text-6xl font-bold leading-tight bg-gradient-to-r from-white to-gray-500 bg-clip-text text-transparent">
           Cut Your AI Costs Smarter
         </h1>
 
