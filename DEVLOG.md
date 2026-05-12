@@ -73,3 +73,24 @@ Blockers / what I'm stuck on:
 
 Plan for tomorrow:
 - Expand pricing logic and improve audit recommendations using structured pricing data.
+
+
+## Day 5 — 2026-05-12
+
+Hours worked: 5
+
+What I did:
+- Connected all remaining form fields to React state
+- Improved audit recommendation logic using plan, team size, and use-case conditions
+- Added yearly savings calculations
+- Polished the audit recommendation UI
+- Improved the homepage visual design
+
+What I learned:
+- Building contextual recommendation systems requires combining multiple user inputs instead of relying on a single metric.
+
+Blockers / what I'm stuck on:
+- Need to finalize deployment and improve overall recommendation realism.
+
+Plan for tomorrow:
+- Deploy the application, perform final cleanup, and prepare submission assets.
